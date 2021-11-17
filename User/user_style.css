@@ -1,0 +1,73 @@
+a{
+   color: black;
+   text-decoration: none;
+  
+}
+
+img {
+   margin-right: 20px;
+   border-radius: 50px;
+  
+}
+
+button {
+   background-color: transparent;
+   margin-left: 15px;
+   color: red !important;
+   font-size: 20px;
+   border-color: transparent;
+}
+
+.add{
+   position: absolute;
+   left: 5px;
+   margin-top: 5px;
+}
+.add i{
+   color: blue;
+}
+
+.addUser{
+   display: none;
+}
+
+.btn-save{
+   background-color: green;
+   color: white !important;
+   font-size: .95rem;
+   padding: 8px;
+   border-radius: 8px;   
+}
+.btn-save:hover{
+   background-color: blue;
+  
+   cursor: pointer;
+}
+
+.btn-cancel{
+   background-color: black;
+   color: white !important;
+   font-size: .95rem;
+   padding: 8px;
+   border-radius: 8px;   
+}
+.btn-cancel:hover{
+   background-color: red; 
+   cursor: pointer;
+}
+
+.btn-cancel i{
+   color: white;
+}
+
+form {
+   position: absolute;
+   left: 2px;
+}
+
+form p {
+   left: 2px;
+   font-size: 12px;
+   text-align: right;
+}
+
